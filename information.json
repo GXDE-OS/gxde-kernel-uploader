@@ -1,0 +1,16 @@
+[
+    {
+        "Name": "linux-5.15.45-amd64-desktop",
+        "PkgName": [
+            "linux-headers-5.15.45-amd64-desktop",
+            "linux-image-5.15.45-amd64-desktop"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Des" : "5.15.45 内核"
+    }
+]

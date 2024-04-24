@@ -96,6 +96,22 @@
 	    "Ver": "5.15.77"
     },
     {
+        "Name": "linux-5.4.50-amd64-desktop",
+        "PkgName": [
+            "linux-headers-5.4.50-amd64-desktop",
+            "linux-image-5.4.50-amd64-desktop"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "deepin",
+        "Des" : "5.4.50 内核",
+	    "Ver": "5.4.50"
+    },
+    {
         "Name": "linux-5.15.45-amd64-desktop",
         "PkgName": [
             "linux-headers-5.15.45-amd64-desktop",
@@ -206,5 +222,21 @@
         "Author": "deepin",
         "Des" : "linux-6.7.0-loong64-desktop",
 	    "Ver": "6.7.0"
+    },
+    {
+        "Name": "linux-4.9.120-deepin-loongson-3",
+        "PkgName": [
+            "linux-headers-4.9.120-deepin-loongson-3",
+            "linux-image-4.9.120-deepin-loongson-3"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "mips64el"
+        ],
+        "Author": "deepin",
+        "Des" : "linux-4.9.120-deepin-loongson-3",
+	    "Ver": "4.9.120"
     }
 ]

@@ -12,7 +12,56 @@
             "amd64"
         ],
         "Author": "deepin",
-        "Des": "linux-6.6.25-amd64-desktop-hwe"
+        "Des": "linux-6.6.25-amd64-desktop-hwe",
+        "Ver": "6.6.25"
+    },
+    {
+        "Name": "linux-6.6.21-amd64-desktop-hwe",
+        "PkgName": [
+            "linux-headers-6.6.21-amd64-desktop-hwe",
+            "linux-image-6.6.21-amd64-desktop-hwe"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "deepin",
+        "Des": "linux-6.6.21-amd64-desktop-hwe",
+        "Ver": "6.6.21"
+    },
+    {
+        "Name": "linux-6.1.32-amd64-desktop-hwe",
+        "PkgName": [
+            "linux-headers-6.1.32-amd64-desktop-hwe",
+            "linux-image-6.1.32-amd64-desktop-hwe"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "deepin",
+        "Des": "linux-6.1.32-amd64-desktop-hwe",
+        "Ver": "6.1.32"
+    },
+    {
+        "Name": "linux-5.15.77-amd64-desktop",
+        "PkgName": [
+            "linux-headers-5.15.77-amd64-desktop",
+            "linux-image-5.15.77-amd64-desktop"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "deepin",
+        "Des" : "5.15.77 内核",
+	    "Ver": "5.15.77"
     },
     {
         "Name": "linux-5.15.45-amd64-desktop",
@@ -28,6 +77,102 @@
         ],
         "Author": "deepin",
         "Des" : "5.15.45 内核",
-	"Ver": "5.15.14"
+	    "Ver": "5.15.45"
+    },
+    {
+        "Name": "linux-6.9.0-rc4-loong64-desktop",
+        "PkgName": [
+            "linux-headers-6.9.0-rc4-loong64-desktop",
+            "linux-image-6.9.0-rc4-loong64-desktop"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "loong64"
+        ],
+        "Author": "deepin",
+        "Des" : "linux-6.9.0-rc4-loong64-desktop",
+	    "Ver": "6.9.0-rc4"
+    },
+    {
+        "Name": "linux-6.9.0-rc3-loong64-desktop",
+        "PkgName": [
+            "linux-headers-6.9.0-rc3-loong64-desktop",
+            "linux-image-6.9.0-rc3-loong64-desktop"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "loong64"
+        ],
+        "Author": "deepin",
+        "Des" : "linux-6.9.0-rc3-loong64-desktop",
+	    "Ver": "6.9.0-rc3"
+    },
+    {
+        "Name": "linux-6.9.0-rc2-loong64-desktop",
+        "PkgName": [
+            "linux-headers-6.9.0-rc2-loong64-desktop",
+            "linux-image-6.9.0-rc2-loong64-desktop"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "loong64"
+        ],
+        "Author": "deepin",
+        "Des" : "linux-6.9.0-rc2-loong64-desktop",
+	    "Ver": "6.9.0-rc2"
+    },
+    {
+        "Name": "linux-6.9.0-rc1-loong64-desktop",
+        "PkgName": [
+            "linux-headers-6.9.0-rc1-loong64-desktop",
+            "linux-image-6.9.0-rc1-loong64-desktop"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "loong64"
+        ],
+        "Author": "deepin",
+        "Des" : "linux-6.9.0-rc1-loong64-desktop",
+	    "Ver": "6.9.0-rc1"
+    },
+    {
+        "Name": "linux-6.8.0-loong64-desktop",
+        "PkgName": [
+            "linux-headers-6.8.0-loong64-desktop",
+            "linux-image-6.8.0-loong64-desktop"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "loong64"
+        ],
+        "Author": "deepin",
+        "Des" : "linux-6.8.0-loong64-desktop",
+	    "Ver": "6.8.0"
+    },
+    {
+        "Name": "linux-6.7.0-loong64-desktop",
+        "PkgName": [
+            "linux-headers-6.7.0-loong64-desktop",
+            "linux-image-6.7.0-loong64-desktop"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "loong64"
+        ],
+        "Author": "deepin",
+        "Des" : "linux-6.7.0-loong64-desktop",
+	    "Ver": "6.7.0"
     }
 ]

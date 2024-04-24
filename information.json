@@ -1,5 +1,37 @@
 [
     {
+        "Name": "linux-deepin-hwe-amd64",
+        "PkgName": [
+            "linux-headers-deepin-hwe-amd64",
+            "linux-image-deepin-hwe-amd64"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "deepin",
+        "Des": "linux-deepin-hwe-amd64",
+        "Ver": "6.6.25"
+    },
+    {
+        "Name": "linux-deepin-loong64",
+        "PkgName": [
+            "linux-headers-deepin-loong64",
+            "linux-image-deepin-loong64"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "loong64"
+        ],
+        "Author": "deepin",
+        "Des": "linux-deepin-loong64",
+        "Ver": "6.0.2"
+    },
+    {
         "Name": "linux-6.6.25-amd64-desktop-hwe",
         "PkgName": [
             "linux-headers-6.6.25-amd64-desktop-hwe",

@@ -128,6 +128,22 @@
 	    "Ver": "5.15.45"
     },
     {
+        "Name": "linux-5.10.0-arm64-desktop",
+        "PkgName": [
+            "linux-headers-5.10.0-arm64-desktop",
+            "linux-image-5.10.0-arm64-desktop"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "arm64"
+        ],
+        "Author": "deepin",
+        "Des" : "linux-5.10.0-arm64-desktop",
+	    "Ver": "5.10.0"
+    },
+    {
         "Name": "linux-6.9.0-rc4-loong64-desktop",
         "PkgName": [
             "linux-headers-6.9.0-rc4-loong64-desktop",
@@ -239,4 +255,5 @@
         "Des" : "linux-4.9.120-deepin-loongson-3",
 	    "Ver": "4.9.120"
     }
+    
 ]

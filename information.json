@@ -1,5 +1,63 @@
 [
     {
+        "Name": "aosc-linux+kernel",
+        "PkgName": [
+            "linux+kernel"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64",
+            "arm64",
+            "mips64el",
+            "mips64r6el",
+            "loong64",
+            "loongarch64",
+            "riscv64"
+        ],
+        "Author": "AOSC OS Maintainers <maintainers@aosc.io>",
+        "Des": "Generic Linux Kernel for AOSC OS (Mainline)",
+        "Ver": "3:6.9.0"
+    },
+    {
+        "Name": "aosc-linux-kernel-6.9.0",
+        "PkgName": [
+            "linux-kernel-6.9.0"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64",
+            "arm64",
+            "mips64el",
+            "mips64r6el",
+            "loong64",
+            "loongarch64",
+            "riscv64"
+        ],
+        "Author": "AOSC OS Maintainers <maintainers@aosc.io>",
+        "Des": "Generic Linux Kernel v6.9.0 for AOSC OS (Mainline)",
+        "Ver": "6.9.0"
+    },
+    {
+        "Name": "linux-6.8.9-x64v3-xanmod1-mejituu",
+        "PkgName": [
+            "linux-headers-6.8.9-x64v3-xanmod1-mejituu",
+            "linux-image-6.8.9-x64v3-xanmod1-mejituu"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "mejituu",
+        "Des": "Linux kernel headers for 6.8.9-x64v3-xanmod1-mejituu on amd64\n  This package provides kernel header files for 6.8.9-x64v3-xanmod1-mejituu on amd64\n  .\n  This is useful for people who need to build external modules",
+        "Ver": "6.8.9-1"
+    },
+    {
         "Name": "linux-6.6.15-x64v3-xanmod1-mejituu",
         "PkgName": [
             "linux-headers-6.6.15-x64v3-xanmod1-mejituu",

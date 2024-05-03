@@ -1,12 +1,92 @@
 [
     {
+        "Name": "linux-6.8.5-dppve-fslong+",
+        "PkgName": [
+            "linux-headers-6.8.5-dppve-fslong+",
+            "linux-image-6.8.5-dppve-fslong+"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "186******75",
+        "Des" : "linux-6.8.5-dppve-fslong+",
+	    "Ver": "6.8.5"
+    },
+    {
+        "Name": "linux-6.3.9-amd64-desktop-hwe-xanmod1",
+        "PkgName": [
+            "linux-headers-6.3.9-amd64-desktop-hwe-xanmod1",
+            "linux-image-6.3.9-amd64-desktop-hwe-xanmod1"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "Linux-qitong",
+        "Des" : "linux-6.3.9-amd64-desktop-hwe-xanmod1",
+	    "Ver": "6.3.9"
+    },
+    {
+        "Name": "linux-6.1.35-amd64-desktop-hwe-xanmod1",
+        "PkgName": [
+            "linux-headers-6.1.35-amd64-desktop-hwe-xanmod1",
+            "linux-image-6.1.35-amd64-desktop-hwe-xanmod1"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "Linux-qitong",
+        "Des" : "linux-6.1.35-amd64-desktop-hwe-xanmod1",
+	    "Ver": "6.1.35"
+    },
+    {
+        "Name": "linux-6.8.7-maoyaotang-deepin-v23-desktop",
+        "PkgName": [
+            "linux-image-6.8.7-maoyaotang-deepin-v23-desktop",
+            "linux-headers-6.8.7-maoyaotang-deepin-v23-desktop"
+        ],
+        "System": [
+            "deepin23"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "哄哄",
+        "Des" : "linux-6.8.7-maoyaotang-deepin-v23-desktop",
+	    "Ver": "6.8.7"
+    },
+    {
+        "Name": "linux-6.9.0-rc6-loong64-desktop",
+        "PkgName": [
+            "linux-headers-6.9.0-rc6-loong64-desktop",
+            "linux-image-6.9.0-rc6-loong64-desktop"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "loong64"
+        ],
+        "Author": "deepin",
+        "Des" : "linux-6.9.0-rc6-loong64-desktop",
+	    "Ver": "6.9.0-rc6"
+    },
+    {
         "Name": "linux-6.8.7-dppve-fslong",
         "PkgName": [
             "linux-image-6.8.7-dppve-fslong",
             "linux-headers-6.8.7-dppve-fslong"
         ],
         "System": [
-            "all"
+            "deepin23"
         ],
         "Arch": [
             "amd64"
@@ -22,7 +102,7 @@
             "linux-headers-6.6.21-dppve-fslong"
         ],
         "System": [
-            "all"
+            "deepin23"
         ],
         "Arch": [
             "amd64"
@@ -41,7 +121,7 @@
             "all"
         ],
         "Arch": [
-            "amd64"
+            "deepin23"
         ],
         "Author": "fslong",
         "Des": "linux-6.1.70-dppve-fslong",

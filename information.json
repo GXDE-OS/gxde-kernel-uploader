@@ -1,5 +1,229 @@
 [
     {
+        "Name": "linux-6.6.15-x64v3-xanmod1-mejituu",
+        "PkgName": [
+            "linux-headers-6.6.15-x64v3-xanmod1-mejituu",
+            "linux-image-6.6.15-x64v3-xanmod1-mejituu"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "mejituu",
+        "Des": "Linux kernel headers for 6.6.15-x64v3-xanmod1-mejituu on amd64\n  This package provides kernel header files for 6.6.15-x64v3-xanmod1-mejituu on amd64\n  .\n  This is useful for people who need to build external modules",
+        "Ver": "6.6.15-1"
+    },
+    {
+        "Name": "linux-6.6.16-x64v3-xanmod1-mejituu",
+        "PkgName": [
+            "linux-headers-6.6.16-x64v3-xanmod1-mejituu",
+            "linux-image-6.6.16-x64v3-xanmod1-mejituu"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "mejituu",
+        "Des": "Linux kernel headers for 6.6.16-x64v3-xanmod1-mejituu on amd64\n  This package provides kernel header files for 6.6.16-x64v3-xanmod1-mejituu on amd64\n  .\n  This is useful for people who need to build external modules",
+        "Ver": "6.6.16-1"
+    },
+    {
+        "Name": "linux-6.7.10-x64v3-xanmod1-mejituu",
+        "PkgName": [
+            "linux-headers-6.7.10-x64v3-xanmod1-mejituu",
+            "linux-image-6.7.10-x64v3-xanmod1-mejituu"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "mejituu",
+        "Des": "Linux kernel headers for 6.7.10-x64v3-xanmod1-mejituu on amd64\n  This package provides kernel header files for 6.7.10-x64v3-xanmod1-mejituu on amd64\n  .\n  This is useful for people who need to build external modules",
+        "Ver": "6.7.10-1"
+    },
+    {
+        "Name": "linux-6.7.11-x64v3-xanmod1-mejituu",
+        "PkgName": [
+            "linux-headers-6.7.11-x64v3-xanmod1-mejituu",
+            "linux-image-6.7.11-x64v3-xanmod1-mejituu"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "mejituu",
+        "Des": "Linux kernel headers for 6.7.11-x64v3-xanmod1-mejituu on amd64\n  This package provides kernel header files for 6.7.11-x64v3-xanmod1-mejituu on amd64\n  .\n  This is useful for people who need to build external modules",
+        "Ver": "6.7.11-1"
+    },
+    {
+        "Name": "linux-6.7.12-x64v3-xanmod1-mejituu",
+        "PkgName": [
+            "linux-headers-6.7.12-x64v3-xanmod1-mejituu",
+            "linux-image-6.7.12-x64v3-xanmod1-mejituu"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "mejituu",
+        "Des": "Linux kernel headers for 6.7.12-x64v3-xanmod1-mejituu on amd64\n  This package provides kernel header files for 6.7.12-x64v3-xanmod1-mejituu on amd64\n  .\n  This is useful for people who need to build external modules",
+        "Ver": "6.7.12-1"
+    },
+    {
+        "Name": "linux-6.7.5-x64v3-xanmod1-mejituu",
+        "PkgName": [
+            "linux-headers-6.7.5-x64v3-xanmod1-mejituu",
+            "linux-image-6.7.5-x64v3-xanmod1-mejituu"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "mejituu",
+        "Des": "Linux kernel headers for 6.7.5-x64v3-xanmod1-mejituu on amd64\n  This package provides kernel header files for 6.7.5-x64v3-xanmod1-mejituu on amd64\n  .\n  This is useful for people who need to build external modules",
+        "Ver": "6.7.5-1"
+    },
+    {
+        "Name": "linux-6.7.6-x64v3-xanmod1-mejituu",
+        "PkgName": [
+            "linux-headers-6.7.6-x64v3-xanmod1-mejituu",
+            "linux-image-6.7.6-x64v3-xanmod1-mejituu"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "mejituu",
+        "Des": "Linux kernel headers for 6.7.6-x64v3-xanmod1-mejituu on amd64\n  This package provides kernel header files for 6.7.6-x64v3-xanmod1-mejituu on amd64\n  .\n  This is useful for people who need to build external modules",
+        "Ver": "6.7.6-1"
+    },
+    {
+        "Name": "linux-6.7.7-x64v3-xanmod1-mejituu",
+        "PkgName": [
+            "linux-headers-6.7.7-x64v3-xanmod1-mejituu",
+            "linux-image-6.7.7-x64v3-xanmod1-mejituu"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "mejituu",
+        "Des": "Linux kernel headers for 6.7.7-x64v3-xanmod1-mejituu on amd64\n  This package provides kernel header files for 6.7.7-x64v3-xanmod1-mejituu on amd64\n  .\n  This is useful for people who need to build external modules",
+        "Ver": "6.7.7-1"
+    },
+    {
+        "Name": "linux-6.7.9-x64v3-xanmod1-mejituu",
+        "PkgName": [
+            "linux-headers-6.7.9-x64v3-xanmod1-mejituu",
+            "linux-image-6.7.9-x64v3-xanmod1-mejituu"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "mejituu",
+        "Des": "Linux kernel headers for 6.7.9-x64v3-xanmod1-mejituu on amd64\n  This package provides kernel header files for 6.7.9-x64v3-xanmod1-mejituu on amd64\n  .\n  This is useful for people who need to build external modules",
+        "Ver": "6.7.9-1"
+    },
+    {
+        "Name": "linux-6.8.4-x64v3-xanmod1-mejituu",
+        "PkgName": [
+            "linux-headers-6.8.4-x64v3-xanmod1-mejituu",
+            "linux-image-6.8.4-x64v3-xanmod1-mejituu"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "mejituu",
+        "Des": "Linux kernel headers for 6.8.4-x64v3-xanmod1-mejituu on amd64\n  This package provides kernel header files for 6.8.4-x64v3-xanmod1-mejituu on amd64\n  .\n  This is useful for people who need to build external modules",
+        "Ver": "6.8.4-1"
+    },
+    {
+        "Name": "linux-6.8.5-x64v3-xanmod1-mejituu",
+        "PkgName": [
+            "linux-headers-6.8.5-x64v3-xanmod1-mejituu",
+            "linux-image-6.8.5-x64v3-xanmod1-mejituu"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "mejituu",
+        "Des": "Linux kernel headers for 6.8.5-x64v3-xanmod1-mejituu on amd64\n  This package provides kernel header files for 6.8.5-x64v3-xanmod1-mejituu on amd64\n  .\n  This is useful for people who need to build external modules",
+        "Ver": "6.8.5-1"
+    },
+    {
+        "Name": "linux-6.8.6-x64v3-xanmod1-mejituu",
+        "PkgName": [
+            "linux-headers-6.8.6-x64v3-xanmod1-mejituu",
+            "linux-image-6.8.6-x64v3-xanmod1-mejituu"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "mejituu",
+        "Des": "Linux kernel headers for 6.8.6-x64v3-xanmod1-mejituu on amd64\n  This package provides kernel header files for 6.8.6-x64v3-xanmod1-mejituu on amd64\n  .\n  This is useful for people who need to build external modules",
+        "Ver": "6.8.6-1"
+    },
+    {
+        "Name": "linux-6.8.7-x64v3-xanmod1-mejituu",
+        "PkgName": [
+            "linux-headers-6.8.7-x64v3-xanmod1-mejituu",
+            "linux-image-6.8.7-x64v3-xanmod1-mejituu"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "mejituu",
+        "Des": "Linux kernel headers for 6.8.7-x64v3-xanmod1-mejituu on amd64\n  This package provides kernel header files for 6.8.7-x64v3-xanmod1-mejituu on amd64\n  .\n  This is useful for people who need to build external modules",
+        "Ver": "6.8.7-1"
+    },
+    {
+        "Name": "linux-6.8.8-x64v3-xanmod1-mejituu",
+        "PkgName": [
+            "linux-headers-6.8.8-x64v3-xanmod1-mejituu",
+            "linux-image-6.8.8-x64v3-xanmod1-mejituu"
+        ],
+        "System": [
+            "all"
+        ],
+        "Arch": [
+            "amd64"
+        ],
+        "Author": "mejituu",
+        "Des": "Linux kernel headers for 6.8.8-x64v3-xanmod1-mejituu on amd64\n  This package provides kernel header files for 6.8.8-x64v3-xanmod1-mejituu on amd64\n  .\n  This is useful for people who need to build external modules",
+        "Ver": "6.8.8-1"
+    },
+    {
         "Name": "linux-6.8.5-dppve-fslong+",
         "PkgName": [
             "linux-headers-6.8.5-dppve-fslong+",
@@ -12,8 +236,8 @@
             "amd64"
         ],
         "Author": "186******75",
-        "Des" : "linux-6.8.5-dppve-fslong+",
-	    "Ver": "6.8.5"
+        "Des": "linux-6.8.5-dppve-fslong+",
+        "Ver": "6.8.5"
     },
     {
         "Name": "linux-6.3.9-amd64-desktop-hwe-xanmod1",
@@ -28,8 +252,8 @@
             "amd64"
         ],
         "Author": "Linux-qitong",
-        "Des" : "linux-6.3.9-amd64-desktop-hwe-xanmod1",
-	    "Ver": "6.3.9"
+        "Des": "linux-6.3.9-amd64-desktop-hwe-xanmod1",
+        "Ver": "6.3.9"
     },
     {
         "Name": "linux-6.1.35-amd64-desktop-hwe-xanmod1",
@@ -44,8 +268,8 @@
             "amd64"
         ],
         "Author": "Linux-qitong",
-        "Des" : "linux-6.1.35-amd64-desktop-hwe-xanmod1",
-	    "Ver": "6.1.35"
+        "Des": "linux-6.1.35-amd64-desktop-hwe-xanmod1",
+        "Ver": "6.1.35"
     },
     {
         "Name": "linux-6.8.7-maoyaotang-deepin-v23-desktop",
@@ -60,8 +284,8 @@
             "amd64"
         ],
         "Author": "哄哄",
-        "Des" : "linux-6.8.7-maoyaotang-deepin-v23-desktop",
-	    "Ver": "6.8.7"
+        "Des": "linux-6.8.7-maoyaotang-deepin-v23-desktop",
+        "Ver": "6.8.7"
     },
     {
         "Name": "linux-6.9.0-rc6-loong64-desktop",
@@ -76,8 +300,8 @@
             "loong64"
         ],
         "Author": "deepin",
-        "Des" : "linux-6.9.0-rc6-loong64-desktop",
-	    "Ver": "6.9.0-rc6"
+        "Des": "linux-6.9.0-rc6-loong64-desktop",
+        "Ver": "6.9.0-rc6"
     },
     {
         "Name": "linux-6.8.7-dppve-fslong",
@@ -220,8 +444,8 @@
             "amd64"
         ],
         "Author": "deepin",
-        "Des" : "5.15.77 内核",
-	    "Ver": "5.15.77"
+        "Des": "5.15.77 内核",
+        "Ver": "5.15.77"
     },
     {
         "Name": "linux-5.4.50-amd64-desktop",
@@ -236,8 +460,8 @@
             "amd64"
         ],
         "Author": "deepin",
-        "Des" : "5.4.50 内核",
-	    "Ver": "5.4.50"
+        "Des": "5.4.50 内核",
+        "Ver": "5.4.50"
     },
     {
         "Name": "linux-5.15.45-amd64-desktop",
@@ -252,8 +476,8 @@
             "amd64"
         ],
         "Author": "deepin",
-        "Des" : "5.15.45 内核",
-	    "Ver": "5.15.45"
+        "Des": "5.15.45 内核",
+        "Ver": "5.15.45"
     },
     {
         "Name": "linux-5.10.0-arm64-desktop",
@@ -268,8 +492,8 @@
             "arm64"
         ],
         "Author": "deepin",
-        "Des" : "linux-5.10.0-arm64-desktop",
-	    "Ver": "5.10.0"
+        "Des": "linux-5.10.0-arm64-desktop",
+        "Ver": "5.10.0"
     },
     {
         "Name": "linux-6.9.0-rc4-loong64-desktop",
@@ -284,8 +508,8 @@
             "loong64"
         ],
         "Author": "deepin",
-        "Des" : "linux-6.9.0-rc4-loong64-desktop",
-	    "Ver": "6.9.0-rc4"
+        "Des": "linux-6.9.0-rc4-loong64-desktop",
+        "Ver": "6.9.0-rc4"
     },
     {
         "Name": "linux-6.9.0-rc3-loong64-desktop",
@@ -300,8 +524,8 @@
             "loong64"
         ],
         "Author": "deepin",
-        "Des" : "linux-6.9.0-rc3-loong64-desktop",
-	    "Ver": "6.9.0-rc3"
+        "Des": "linux-6.9.0-rc3-loong64-desktop",
+        "Ver": "6.9.0-rc3"
     },
     {
         "Name": "linux-6.9.0-rc2-loong64-desktop",
@@ -316,8 +540,8 @@
             "loong64"
         ],
         "Author": "deepin",
-        "Des" : "linux-6.9.0-rc2-loong64-desktop",
-	    "Ver": "6.9.0-rc2"
+        "Des": "linux-6.9.0-rc2-loong64-desktop",
+        "Ver": "6.9.0-rc2"
     },
     {
         "Name": "linux-6.9.0-rc1-loong64-desktop",
@@ -332,8 +556,8 @@
             "loong64"
         ],
         "Author": "deepin",
-        "Des" : "linux-6.9.0-rc1-loong64-desktop",
-	    "Ver": "6.9.0-rc1"
+        "Des": "linux-6.9.0-rc1-loong64-desktop",
+        "Ver": "6.9.0-rc1"
     },
     {
         "Name": "linux-6.8.0-loong64-desktop",
@@ -348,8 +572,8 @@
             "loong64"
         ],
         "Author": "deepin",
-        "Des" : "linux-6.8.0-loong64-desktop",
-	    "Ver": "6.8.0"
+        "Des": "linux-6.8.0-loong64-desktop",
+        "Ver": "6.8.0"
     },
     {
         "Name": "linux-6.7.0-loong64-desktop",
@@ -364,8 +588,8 @@
             "loong64"
         ],
         "Author": "deepin",
-        "Des" : "linux-6.7.0-loong64-desktop",
-	    "Ver": "6.7.0"
+        "Des": "linux-6.7.0-loong64-desktop",
+        "Ver": "6.7.0"
     },
     {
         "Name": "linux-4.9.120-deepin-loongson-3",
@@ -380,8 +604,7 @@
             "mips64el"
         ],
         "Author": "deepin",
-        "Des" : "linux-4.9.120-deepin-loongson-3",
-	    "Ver": "4.9.120"
+        "Des": "linux-4.9.120-deepin-loongson-3",
+        "Ver": "4.9.120"
     }
-    
 ]
